@@ -9,6 +9,8 @@ I tested with BepInEx_x64_5.4.22.0 on Windows 11 (https://github.com/BepInEx/Bep
 Simply download the loader and unzip it into your game directory. 
 For the Steam version of the game, this will likely be `C:\Program Files (x86)\Steam\steamapps\common\Against the Storm\`. 
 
+Next, click on the Releases section in the right nav column of the repository landing page. Download the dll and json file from the most recent release.
+
 The `.dll` file created by this mod (`Josiwe.ATS.Zoom.dll` by default) can then be dropped into the `BepInEx\plugins` subdirectory 
 inside the game directory. You might have to make this directory yourself, or run the game once to have it made automatically.
 
